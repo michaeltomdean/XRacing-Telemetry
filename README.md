@@ -5,7 +5,8 @@ Current stage of development
 | Task  | Progress |
 | ------------- | ------------- |
 | Integrate SD Card into transmitter circuit and test data can be written  | Complete  |
-| Integrate RTC into transmitter circuit and add to SD card writes  | WIP  |
+| Level Shift RTC from 3.3V to 5V to work with Arduino logic  | WIP  |
+| Integrate RTC into transmitter circuit and add to SD card writes  | TODO  |
 | Draw up schematic of transmitter system  | WIP  |
 | Find and test 2.4GHz transceivers  | TODO  |
 | Complete transmitter PCB  | TODO  |
