@@ -10,13 +10,13 @@ Current stage of development
 | Find and test 2.4GHz transceivers  | TODO  |
 | Complete transmitter PCB  | TODO  |
 ## Project
-###Arduino Scripts
+### Arduino Scripts
 Includes a set of arduino scripts to run on a transmitter and receiver arduino that will be used to log data from sensors on the card and dump to an SD card. Data from each day will be stored in a dedicated CSV file, with data dumped into the file time-stampped via the RTC. 
-###Python Scripts
+### Python Scripts
 Used to decode sensor data stored in the CSV files.
-###Schematics
+### Schematics
 Files designed to show how to wire up components. A dedicated PCB will be designed for the transmitter circuit so it can be securely mounted into the car.
-###Datasets
+### Datasets
 Useful location to store specific datasets that are of interest. For example, a particular track day that resulted in interesting data that should be shared with those working on the model.
-###Documents
+### Documents
 Any useful documentation on components or any documentation created to explain how files and code works.
